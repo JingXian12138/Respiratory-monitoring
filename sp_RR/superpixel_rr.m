@@ -2,7 +2,7 @@ clear;
 clc;
 
 dataDir = '../data';
-dataName = 'test01.mp4';
+dataName = 'n_test15.mp4';
 inFile = fullfile(dataDir,dataName);
 % 人脸检测
 % Create a cascade detector object.
